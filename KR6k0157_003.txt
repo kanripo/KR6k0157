@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:45:22.605304
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:21
 #+TITLE: 四分律刪補隨機羯磨疏科
 #+PROPERTY: CBETA_ID X41n0727
 #+PROPERTY: ID KR6k0157
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 41, No. 727
 #+PROPERTY: VOL 41
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6k0157_X_003-0038a> 
 #+PROPERTY: JUAN 3
 ¶
-
- 釋四分律刪補隨機羯磨疏科卷三¶
+釋四分律刪補隨機羯磨疏科卷三¶
 餘杭郡沙門釋　元照　錄¶
 
   
