@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:45:22.562539
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:21
 #+TITLE: 四分律刪補隨機羯磨疏科
 #+PROPERTY: CBETA_ID X41n0727
 #+PROPERTY: ID KR6k0157
@@ -10,8 +10,7 @@
 #+PROPERTY: LASTPB <pb:KR6k0157_X_002-0020a> 
 #+PROPERTY: JUAN 2
 ¶
-
- 釋四分律刪補隨機羯磨疏科卷二¶
+釋四文律刪補隨機羯磨疏科卷二¶
 ¶
 
   
